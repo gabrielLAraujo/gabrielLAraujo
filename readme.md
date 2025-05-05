@@ -28,8 +28,8 @@ Desenvolvedor fullstack apaixonado por criar soluções eficientes e funcionais,
 
 ### 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=frauchesgabriel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frauchesgabriel&layout=compact&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielLAraujo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielLAraujo&layout=compact&theme=radical)
 
 ---
 
