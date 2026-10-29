@@ -1,6 +1,8 @@
 ### Hi, I'm Gabriel Leite
 
-Senior Software Engineer based in Florianópolis, Brazil (UTC-3). I build backend-heavy systems with .NET and Node.js: APIs, message-driven services and the React front ends on top of them. Open to remote roles with US and EU teams.
+Senior Software Engineer based in São José, near Florianópolis, Brazil (UTC-3), with 8+ years of experience. I build backend-heavy systems with .NET and Node.js: APIs, message-driven services and the React front ends on top of them. Currently on financial-market systems. Open to remote roles and contract work with US and EU teams.
+
+🇧🇷 Também desenvolvo software sob medida para pequenas e médias empresas: painéis de gestão, sistemas internos e integrações. [frauchesgabriel.work](https://frauchesgabriel.work)
 
 **What I work with**
 
@@ -10,9 +12,10 @@ Senior Software Engineer based in Florianópolis, Brazil (UTC-3). I build backen
 - **Cloud & ops:** AWS, Kubernetes, Docker, GitHub Actions, OpenTelemetry
 - **Frontend:** React, Next.js, Angular, TypeScript
 
-**Featured project**
+**Featured projects**
 
-- **[Garagem](https://github.com/gabrielLAraujo/app-maintenance-history)**: car maintenance history app in .NET 10 + React, with Clean Architecture, DDD, CQRS and 773 automated tests, deployed with Coolify on a VPS. Built with AI agents in a spec-driven workflow; the README documents what was mine and what was the AI's. [Live app](https://garagem.frauchesgabriel.work)
+- **[Garagem](https://github.com/gabrielLAraujo/app-maintenance-history)**: car maintenance history app in .NET 10 + React, with Clean Architecture, DDD, CQRS and 880 automated tests, deployed with Coolify on a VPS. Built with AI agents in a spec-driven workflow; the README documents what was mine and what was the AI's. [Live demo](https://garagem.frauchesgabriel.work/p/_xIUXlec5yU0sLf1Fg9z2JgkNnmfnXRUypBIuOfvoHE)
+- **Fechamento**: financial management for several companies and personal finances. Imports card-terminal sales (Stone), organizes transactions by company and shows monthly cash flow, with role-based access. .NET 10, PostgreSQL, React. Public demo coming soon.
 
 **In progress**
 
@@ -27,4 +30,4 @@ Senior Software Engineer based in Florianópolis, Brazil (UTC-3). I build backen
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/gabrielleitearaujo/) · [Portfolio](https://frauchesgabriel.work) · bfrauches@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gabrielleitearaujo/) · [Portfolio (EN)](https://frauchesgabriel.work/en) · [Portfólio (PT)](https://frauchesgabriel.work) · contato@frauchesgabriel.work
